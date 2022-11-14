@@ -11,7 +11,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/Meeri-H`,
     // Optional: LinkedIn account URL
-    linkedin: `www.linkedin.com/in/meeri-harkki-592b59214`,
+    linkedin: `https://www.linkedin.com/in/meeri-harkki-592b59214`,
     // Content of the About Me section
     about: `A first year Master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
     in Astronomy from my Bachelor's degree.`,
