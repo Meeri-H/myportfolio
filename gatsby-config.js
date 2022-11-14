@@ -99,6 +99,7 @@ module.exports = {
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
         icon: `src/images/Omakuva.jpg`,
+        profile: `src/images/Omakuva.jpg`,
       },
     },
   ],
