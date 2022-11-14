@@ -15,26 +15,21 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `A first year Master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
+    in Astronomy from my Bachelor's degree.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Chaos Theory',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A project to simulate two chaotic systems, a double pendulum and the Lorenz attractor.',
+        link: 'https://github.com/MeeriHarkki/chaostheory/blob/220f7c7fdd0448187ac0719599c63143d053ac12/Chaos%20theory.py',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Statistical Data Analysis Project',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'A project where statistical data analysis is performed on bike rental data.',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
