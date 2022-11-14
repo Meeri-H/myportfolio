@@ -13,7 +13,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/meeri-harkki-592b59214`,
     // Content of the About Me section
-    about: `A first year Master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
+    about: `I'm a first year Master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
     in Astronomy from my Bachelor's degree.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
