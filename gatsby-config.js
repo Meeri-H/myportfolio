@@ -9,9 +9,9 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `MSc Student in Physical Sciences`
     // Optional: Github account URL
-    github: `https://github.com/MeeriHarkki`,
+    github: `https://github.com/Meeri-H`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `www.linkedin.com/in/meeri-harkki-592b59214`,
     // Content of the About Me section
     about: `A first year Master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
     in Astronomy from my Bachelor's degree.`,
@@ -21,13 +21,13 @@ module.exports = {
         name: 'Chaos Theory',
         description:
           'A project to simulate two chaotic systems, a double pendulum and the Lorenz attractor.',
-        link: 'https://github.com/MeeriHarkki/chaostheory/blob/220f7c7fdd0448187ac0719599c63143d053ac12/Chaos%20theory.py',
+        link: 'https://github.com/Meeri-H/chaostheory/blob/220f7c7fdd0448187ac0719599c63143d053ac12/Chaos%20theory.py',
       },
       {
         name: 'Statistical Data Analysis Project',
         description:
           'A project where statistical data analysis is performed on bike rental data.',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://github.com/Meeri-H/stat_data_analysis_project/blob/957d540a73d44c9f7840493ed4efd8240bbc8f4c/Statistical%20Data%20Analysis%20Project.py',
       },
     ],
     
