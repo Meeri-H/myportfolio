@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://adorable-haupia-2afc62.netlify.app`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Meeri Harkki',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Meeri Harkki`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `MSc Student in Physical Sciences.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
