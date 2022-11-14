@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Meeri Harkki`,
     // Description that goes under your name in main bio
-    description: `MSc Student in Physical Sciences`
+    description: `MSc Student in Physical Sciences`,
     // Optional: Github account URL
     github: `https://github.com/Meeri-H`,
     // Optional: LinkedIn account URL
