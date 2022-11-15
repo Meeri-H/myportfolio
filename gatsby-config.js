@@ -36,7 +36,7 @@ module.exports = {
       {
         name: 'Programming languages',
         description:
-          'Python, C/C++, Java, R, HTML & CSS',
+          'Python, C/C++, Java, R, SQL, HTML & CSS',
       },
     ],
   },
