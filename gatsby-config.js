@@ -13,8 +13,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/meeri-harkki-592b59214`,
     // Content of the About Me section
-    about: `I'm a first year master's degree student in the University of Turku. I major in Physical Sciences and my specialization is Data Analytics, but I have a background 
-    in Astronomy from my bachelor's degree.`,
+    about: `I'm a first year master's degree student in the University of Turku. I major in Physical Sciences and my specialization is data analytics, but I have a background 
+    in astronomy from my bachelor's degree.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -28,6 +28,12 @@ module.exports = {
         description:
           'A project where statistical data analysis is performed on bike rental data.',
         link: 'https://github.com/Meeri-H/stat_data_analysis_project/blob/957d540a73d44c9f7840493ed4efd8240bbc8f4c/Statistical%20Data%20Analysis%20Project.py',
+      },
+      {
+        name: 'Unsupervised Learning Exercise',
+        description:
+          'An exercise to study the basic unsupervised learning methods on labeled and unlabeled data.',
+        link: 'https://github.com/Meeri-H/unsupervised_learning_exercise/blob/main/unsupervised_learning.py',
       },
     ],
     
