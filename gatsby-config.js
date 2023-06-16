@@ -20,7 +20,7 @@ module.exports = {
       {
         name: 'Chaos Theory',
         description:
-          'A project to simulate two chaotic systems, a double pendulum and the Lorenz attractor.',
+          'A project to simulate two chaotic systems: a double pendulum and the Lorenz attractor.',
         link: 'https://github.com/Meeri-H/chaostheory/blob/220f7c7fdd0448187ac0719599c63143d053ac12/Chaos%20theory.py',
       },
       {
